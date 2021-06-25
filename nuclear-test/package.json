@@ -26,7 +26,7 @@
     "jquery": "^3.5.0",
     "json-server": "^0.8.11",
     "node-libs-browser": "^0.5.2",
-    "node-sass": "^4.13.1",
+    "node-sass": "^6.0.1",
     "nuclear-js": "^1.0.5",
     "react": "^0.14.0",
     "react-mixin": "^1.5.0",
