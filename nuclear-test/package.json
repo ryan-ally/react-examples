@@ -16,7 +16,7 @@
     "axios": "^0.21.1",
     "babel-core": "^6.10.4",
     "babel-loader": "^6.0.0",
-    "bootstrap": "^3.3.5",
+    "bootstrap": "^5.0.0",
     "bootstrap-sass": "^3.3.5",
     "bootstrap-sass-loader": "^1.0.4",
     "bootstrap-webpack": "0.0.5",
